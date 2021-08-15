@@ -57,8 +57,8 @@
 
 ## Для Backend/Fullstack
 
-- Ханить всю информацию в БД, можно использовать любую, предпочтительно PostgreSQL.
+- Хранить всю информацию в БД, можно использовать любую, предпочтительно PostgreSQL.
 
-## Для Frontend/Fullstack
+## Для Frontend
 
 - В качесте хранилища использовать [Firebase](https://firebase.google.com/docs/database).
